@@ -1,0 +1,17 @@
+Server:
+  RunMode: debug
+  HttpPort: 8083
+
+Postgres:
+  DriverName: postgres
+  Host: 47.97.116.47
+  Port: 8023
+  User: juntai
+  Password: juntai
+  Dbname: golangdb
+  Sslmode: disable
+
+File:
+  Location: ./resources/
+  Num: 2
+
